@@ -1,0 +1,12 @@
+:root {
+  --bg: #0a0a0f;
+  --surface: #13131a;
+  --border: #1e1e2e;
+  --accent: #7c5cfc;
+  --accent2: #00e5b0;
+  --text: #f0f0f8;
+  --muted: #6b6b80;
+  --card: #16161f;
+}
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body { background: #0a0a0f; }
